@@ -1,2 +1,2 @@
 language: csharp
-solution: DotNetFloripa\DotNetFloripa.sln
+solution: site\DotNetFloripa\DotNetFloripa.sln
